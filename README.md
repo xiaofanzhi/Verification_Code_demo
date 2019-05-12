@@ -8,3 +8,7 @@ flask 验证码Demo
 点击切换验证码 
 
 ~~可以将验证码数字存进对应session中~~
+
+具体依赖包：PIL
+
+pipenv install Pillow
